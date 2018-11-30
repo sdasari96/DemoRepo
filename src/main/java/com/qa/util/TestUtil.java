@@ -12,7 +12,6 @@ public class TestUtil
 		System.out.println("Updated in GIT");
 	}
 	
-<<<<<<< HEAD
 	public void addedInLocal()
 	{
 		System.out.println("Added this to test Branching functionality of Git");
@@ -22,10 +21,10 @@ public class TestUtil
 	{
 		System.out.println("have to merge");
 	}
-=======
+
 	public void addedInLocal1()
 	{
 		System.out.println("Added this to test Branching functionality of Git");
 	}
->>>>>>> master
+
 }
