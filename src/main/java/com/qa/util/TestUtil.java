@@ -12,7 +12,7 @@ public class TestUtil
 		System.out.println("Updated in GIT");
 	}
 	
-	public void addedInLocal1()
+	public void addedInLocal()
 	{
 		System.out.println("Added this to test Branching functionality of Git");
 	}
