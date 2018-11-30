@@ -6,4 +6,9 @@ public class TestUtil
 	{
 		System.out.println("Test Util");
 	}
+	
+	public void updatedInGit()
+	{
+		System.out.println("Updated in GIT");
+	}
 }
