@@ -16,4 +16,9 @@ public class TestUtil
 	{
 		System.out.println("Added this to test Branching functionality of Git");
 	}
+	
+	public void learningToMerge()
+	{
+		System.out.println("have to merge");
+	}
 }
